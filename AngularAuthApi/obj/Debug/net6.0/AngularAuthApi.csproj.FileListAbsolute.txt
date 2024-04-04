@@ -66,3 +66,4 @@ E:\ShwetaDotNetProject\AngularAuthApi\AngularAuthApi\obj\Debug\net6.0\refint\Ang
 E:\ShwetaDotNetProject\AngularAuthApi\AngularAuthApi\obj\Debug\net6.0\AngularAuthApi.pdb
 E:\ShwetaDotNetProject\AngularAuthApi\AngularAuthApi\obj\Debug\net6.0\AngularAuthApi.genruntimeconfig.cache
 E:\ShwetaDotNetProject\AngularAuthApi\AngularAuthApi\obj\Debug\net6.0\ref\AngularAuthApi.dll
+E:\ShwetaDotNetProject\AngularAuthApi\AngularAuthApi\obj\Debug\net6.0\AngularAuthApi.sourcelink.json
